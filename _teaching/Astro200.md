@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate Course"
 permalink: /teaching/Astro200
 venue: "University of Southern California, Physics & Astronomy"
-date: Fall 2018 Spring 2019, Fall 2019
+date: 2018-08-20 to 2019-04-26
 location: "Los Angeles, California"
 ---
 
