@@ -1,6 +1,6 @@
 ---
 title: "Python Project for Data Science "
-excerpt: "Coursera Certificate 1<br/><img src='/images/Python_Project-1.png'>"
+excerpt: "[Click Here for Final Project](https://github.com/annahaynie/IBM_Course/blob/main/Final%20Assignment.ipynb)<br/><img src='/images/Python_Project-1.png'>"
 collection: portfolio
 ---
 
