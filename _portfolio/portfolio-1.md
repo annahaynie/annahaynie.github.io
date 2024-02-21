@@ -1,7 +1,7 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Python Project for Data Science "
+excerpt: "Coursera Certificate 1<br/><img src='Python_Project.pdf'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+Applied Python fundamentals such as Pandas, BeautifulSoup, and Plotly to large datasets to build a dashboard allowing the user to visualize stock data. Find the Jupyter Notebook of the final project [here](https://github.com/annahaynie/IBM_Course/blob/main/Final%20Assignment.ipynb).
