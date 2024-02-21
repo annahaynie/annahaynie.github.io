@@ -1,6 +1,6 @@
 ---
 title: "Python Project for Data Science "
-excerpt: "Coursera Certificate 1<br/><img src='Python_Project.pdf'>"
+excerpt: "Coursera Certificate 1<br/><img src='/images/Python_Project-1.png'>"
 collection: portfolio
 ---
 
