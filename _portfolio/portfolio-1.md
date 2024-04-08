@@ -1,6 +1,6 @@
 ---
 title: "Python Project for Data Science "
-excerpt: "[Click Here for Final Project](https://github.com/annahaynie/IBM_Course/blob/main/Final%20Assignment.ipynb)<br/><img src='/images/Python_Project-1.png'>"
+excerpt: "[Click Here for Project Repository]([https://github.com/annahaynie/IBM_Course/blob/main/Final%20Assignment.ipynb](https://github.com/annahaynie/IBM_Course/tree/main/Python%20Project%20for%20Data%20Science))<br/><img src='/images/Python_Project-1.png'>"
 collection: portfolio
 ---
 
