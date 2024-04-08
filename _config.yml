@@ -21,7 +21,7 @@ repository               : "annahaynie/annahaynie.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "face.jpeg"
+  avatar           : "headshot.png"
   name             : "Annastasia Haynie"
   pronouns         : "she/her"# example: "she/her"  
   bio              : "PhD Candidate, Physics"
