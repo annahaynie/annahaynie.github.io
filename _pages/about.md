@@ -13,4 +13,4 @@ I've completed my PhD in physics against a backdrop of a drastically changing wo
 
 My current work involves thinking ahead about the next generation of survey telescopes coming online in the next decade. With a ~4 order of magnitude increase in data collection, we're going to be observing more supernovae than ever before. In an effort to make the most of this data, I've developed analytic frameworks that are calibrated to more detailed numerical simulations and can be easily and quickly applied to large datasets to robustly derive properties of supernovae. My work is also useful for directing these future surveys as I have highlighted the crucial information that be derived from previously poorly observed phases of supernova, including at very early and very late times. 
 
-Outside of work, I can be found hiking, camping, or laying in a park with my elderly dog, Archie.<br/><img src='/images/Archie.JPG.png'>
+Outside of work, I can be found hiking, camping, or laying in a park with my elderly dog, Archie.<br/><img src='/images/Archie.png'>
