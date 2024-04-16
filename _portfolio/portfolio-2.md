@@ -1,6 +1,6 @@
 ---
 title: "IBM Data Science Certification"
-excerpt: "During the 10-course certification program, I completed a number of projects demonstrating skills in data science including data wrangling, analysis, visualization, building machine learning models and data pipelines, and working with relational databases"
+excerpt: "During the 10-course certification program, I completed a number of projects demonstrating skills in data science including data wrangling, analysis, visualization, building machine learning models and data pipelines, and working with relational databases."
 collection: portfolio
 ---
 
