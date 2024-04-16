@@ -1,6 +1,6 @@
 ---
 title: "Doctoral Research"
-excerpt: "Throughout my PhD, I have developed several bodies of code used to update the simulation capabilities in the SuperNova Explosion Code [(SNEC)](https://stellarcollapse.org/index.php/SNEC.html), and for data analysis. Repositories for these projects can be found here. <br/><img src='/images/supernova.png' width="200px">"
+excerpt: "Throughout my PhD, I have developed several bodies of code used to update the simulation capabilities in the SuperNova Explosion Code [(SNEC)](https://stellarcollapse.org/index.php/SNEC.html), and for data analysis. Repositories for these projects can be found here. <br/><img align='right' src='/images/supernova.png'>"
 collection: portfolio
 ---
 
