@@ -49,18 +49,20 @@ $type-size-8                : 0.625em;  // ~10px
 
 $gray                       : #7a8288;
 $purple                     : #877296;
+$green                      : #729676;
 $dark-purple                : mix(#000, $purple, 40%);
+$dark-green                 : #405c43;
 $dark-gray                  : mix(#000, $gray, 40%);
 $darker-gray                : mix(#000, $gray, 60%);
 $light-gray                 : mix(#fff, $gray, 50%);
 $lighter-gray               : mix(#fff, $gray, 90%);
 
 $body-color                 : #fff;
-$background-color           : $purple;
+$background-color           : $green;
 $code-background-color      : #fafafa;
 $code-background-color-dark : $light-gray;
 $text-color                 : $lighter-gray;
-$border-color               : $dark-purple;
+$border-color               : $dark-green;
 
 $primary-color              : #fff;
 $success-color              : #62c462;
